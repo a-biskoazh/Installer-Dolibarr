@@ -166,5 +166,8 @@ j'utilise la commande :
 sudo -u www-data php /var/www/nextcloud/occ user:resetpassword VOTREUTILISATEUR --> remplacé par amaury22
 et je renseigne un nouveau mot de passe de plus de 10 caractères
 
-Nouvelle ressource pour la configuration d'un serveur next cloud : https://doc.ubuntu-fr.org/nextcloud-serveur
+# Autres ressources pour la configuration d'un serveur next cloud : 
 
+https://doc.ubuntu-fr.org/nextcloud-serveur
+
+https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04-fr
